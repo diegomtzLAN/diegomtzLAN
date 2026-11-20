@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Diego%20Martinez&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=IT%20Support%20%E2%86%92%20Cybersecurity&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,100:004e92&height=230&section=header&text=Diego%20Martinez&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=IT%20Support%20%20%E2%80%A2%20%20Cybersecurity%20Student%20%20%E2%80%A2%20%20Homelabber&descSize=17&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=IT+Support+Technician;Cybersecurity+student+%40+WGU;Building+an+enterprise+homelab;Future+SOC+analyst" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Fixing+computers+by+day;Building+a+company+network+by+night;On+my+way+to+the+SOC" alt="Typing intro" />
 
 </div>
 
@@ -10,13 +10,15 @@
 
 ### 👋 About me
 
-```yaml
-role:      IT Support Technician — Geek Squad @ Best Buy
-previous:  IT Support Intern — LOG(N) Pacific (AD, M365, Azure)
-studying:  B.S. Cybersecurity & Information Assurance @ WGU
-certs:     [CompTIA A+, CompTIA Network+]
-seeking:   Help desk · Desktop support · Junior SOC
-```
+I'm an IT support tech from Southern California who learns by building. Right now that means running a fake fintech's entire IT department out of my home lab.
+
+<table>
+<tr><td>💼 <b>Now</b></td><td>IT Support Technician · Geek Squad @ Best Buy</td></tr>
+<tr><td>🏢 <b>Before</b></td><td>IT Support Intern · LOG(N) Pacific (Active Directory, M365, Azure)</td></tr>
+<tr><td>🎓 <b>Studying</b></td><td>B.S. Cybersecurity &amp; Information Assurance · WGU</td></tr>
+<tr><td>📜 <b>Certs</b></td><td>CompTIA A+ · CompTIA Network+</td></tr>
+<tr><td>🎯 <b>Open to</b></td><td>Help desk · Desktop support · Junior SOC</td></tr>
+</table>
 
 ---
 
@@ -62,4 +64,4 @@ A fictional fintech company I run on two home servers, built and documented like
 -->
 [![GitHub](https://img.shields.io/badge/GitHub-diegomtzLAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegomtzLAN)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=100&section=footer" width="100%" />
