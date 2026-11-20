@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,100:004e92&height=230&section=header&text=Diego%20Martinez&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=IT%20Support%20%20%E2%80%A2%20%20Cybersecurity%20Student%20%20%E2%80%A2%20%20Homelabber&descSize=17&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=210&section=header&text=Diego%20Martinez&fontSize=48&fontColor=c0caf5&animation=fadeIn&desc=IT%20Support%20%20%C2%B7%20%20Cybersecurity%20%20%C2%B7%20%20Homelab&descSize=18&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Fixing+computers+by+day;Building+a+company+network+by+night;On+my+way+to+the+SOC" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=BB9AF7&center=true&vCenter=true&width=520&lines=Fixing+computers+by+day;Building+a+company+network+by+night;On+my+way+to+the+SOC" alt="Typing intro" />
 
 </div>
 
@@ -44,14 +44,14 @@ A fictional fintech company I run on two home servers, built and documented like
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,apple,linux,powershell,bash,docker,azure,git,github,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,powershell,bash,docker,azure,git,github,vscode&perline=10&theme=dark" />
 
 <br/><br/>
 
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-1a1b26?style=for-the-badge&logo=microsoft&logoColor=7aa2f7)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-1a1b26?style=for-the-badge&logo=microsoftoffice&logoColor=f7768e)
+![Proxmox](https://img.shields.io/badge/Proxmox-1a1b26?style=for-the-badge&logo=proxmox&logoColor=ff9e64)
+![OPNsense](https://img.shields.io/badge/OPNsense-1a1b26?style=for-the-badge&logo=opnsense&logoColor=bb9af7)
 
 </div>
 
@@ -60,8 +60,8 @@ A fictional fintech company I run on two home servers, built and documented like
 ### 📫 Connect
 
 <!-- Add your LinkedIn badge here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/your-handle)
 -->
-[![GitHub](https://img.shields.io/badge/GitHub-diegomtzLAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegomtzLAN)
+[![GitHub](https://img.shields.io/badge/GitHub-diegomtzLAN-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=24283b)](https://github.com/diegomtzLAN)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b26&height=100&section=footer" width="100%" />
