@@ -60,9 +60,9 @@ A fictional fintech company I run on two home servers, built and documented like
 
 ### `~/currently`
 
-- ▸ Studying for my B.S. in Cybersecurity & Information Assurance at WGU
-- ▸ Adding a second server to my lab, then deploying Wazuh for security monitoring
-- ▸ Open to **help desk**, **desktop support** and **junior SOC** roles
+- Studying for my B.S. in Cybersecurity & Information Assurance at WGU
+- Adding a second server to my lab, then deploying Wazuh for security monitoring
+- Open to **help desk**, **desktop support** and **junior SOC** roles
 
 ---
 
