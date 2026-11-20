@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=210&section=header&text=Diego%20Martinez&fontSize=48&fontColor=c0caf5&animation=fadeIn&desc=IT%20Support%20%20%C2%B7%20%20Cybersecurity%20%20%C2%B7%20%20Homelab&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=210&section=header&text=Diego%20Martinez&fontSize=48&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=IT%20Support%20%20%C2%B7%20%20Cybersecurity%20%20%C2%B7%20%20Homelab&descSize=18&descAlignY=58" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=BB9AF7&center=true&vCenter=true&width=520&lines=Fixing+computers+by+day;Building+a+company+network+by+night;On+my+way+to+the+SOC" alt="Typing intro" />
 
