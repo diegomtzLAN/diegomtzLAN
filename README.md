@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="Terminal: Diego Martinez, IT Support to Cybersecurity. Geek Squad at Best Buy, former IT Support Intern at LOG(N) Pacific. CompTIA A+, Network+, WGU B.S. Cybersecurity. Open to help desk, desktop support and junior SOC roles." width="100%" />
+<img src="assets/terminal.svg" alt="Terminal: Diego Martinez, IT Support to Cybersecurity. Advanced Repair Agent at Geek Squad (Best Buy), former IT Support Intern at LOG(N) Pacific. CompTIA A+, Network+, WGU B.S. Cybersecurity. Open to help desk, desktop support and junior SOC roles." width="100%" />
 
 </div>
 
@@ -12,7 +12,7 @@ I'm an IT support technician in Southern California working my way into cybersec
 
 ### `~/experience`
 
-**Geek Squad @ Best Buy** · *current*
+**Advanced Repair Agent · Geek Squad @ Best Buy** · *current*
 - Diagnose and repair Windows and macOS devices from intake to pickup
 - OS recovery, data backups and service tickets
 
